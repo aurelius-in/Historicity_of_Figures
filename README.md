@@ -195,7 +195,7 @@ This study will also contribute to the field of machine learning by demonstratin
 - Appian, The Civil Wars (c. 2nd century CE)
 - Cassius Dio, Roman History (c.
 
-### References of scholarly publications that question the historicity the figures:
+### References of scholarly publications that study the historicity the figures:
 
 Abraham
 - Thomas L. Thompson, The Historicity of the Patriarchal Narratives: The Quest for the Historical Abraham, (T&T Clark International, 2002).
@@ -228,33 +228,113 @@ Gilgamesh
 - Benjamin R. Foster, Before the Muses: An Anthology of Akkadian Literature, (Brill, 1993).
 
 
-### References that Dispute of Existence of the Figures
-- The Jesus Puzzle: Did Christianity Begin with a Mythical Christ? by Earl Doherty
-- The Christ Conspiracy: The Greatest Story Ever Sold by Acharya S.
-- Jesus Never Existed: An Introduction to the Ultimate Heresy by Kenneth Humphreys
-- Nailed: Ten Christian Myths That Show Jesus Never Existed at All by David Fitzgerald
-- The Historicity of Jesus: Why We Might Have Reason for Doubt by Richard Carrier
-- Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them) by Bart Ehrman
-- Did Jesus Exist? The Historical Argument for Jesus of Nazareth by Bart Ehrman
-- The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts by Israel Finkelstein and Neil Asher Silberman
-- The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts by Mark S. Smith
-- The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East by John M. Allegro
-- The God Delusion by Richard Dawkins
-- Breaking the Spell: Religion as a Natural Phenomenon by Daniel Dennett
-- The End of Faith: Religion, Terror, and the Future of Reason by Sam Harris
-- God Is Not Great: How Religion Poisons Everything by Christopher Hitchens
-- The Atheist's Guide to Reality: Enjoying Life without Illusions by Alex Rosenberg
-- The Evolution of God by Robert Wright
-- The Golden Bough: A Study in Magic and Religion by James George Frazer
-- The World's Sixteen Crucified Saviors by Kersey Graves
-- The Myth of the Resurrection and Other Essays by Joseph McCabe
-- The Origins of Christianity and the Quest for the Historical Jesus Christ by Acharya S.
-- The Jesus Mysteries: Was the "Original Jesus" a Pagan God? by Timothy Freke and Peter Gandy
-- The Pagan Christ: Recovering the Lost Light by Tom Harpur
-- The Gnostic Gospels by Elaine Pagels
-- Jesus and the Lost Goddess: The Secret Teachings of the Original Christians by Timothy Freke and Peter Gandy
-- The Dark Side of Christian History by Helen Ellerbe
-- The Age of Reason by Thomas Paine
-- Why I Am Not a Christian by Bertrand Russell
-- The Essence of Christianity by Ludwig Feuerbach
+### Other References that Examine the Existence of the Figures
 
+Abraham:
+- B. Feiler, "Abraham: A Journey to the Heart of Three Faiths," New York, NY, W. Morrow, 2002.
+- J. Van Seters, "Abraham in History and Tradition," New Haven, CT, Yale University Press, 1975.
+
+Adam and Eve:
+- P. Enns, "The Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins," Grand Rapids, MI, Brazos Press, 2012.
+- J. H. Walton, "The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate," Downers Grove, IL, IVP Academic, 2015.
+
+Buddha:
+- D. Chopra, "Buddha: A Story of Enlightenment," New York, NY, HarperCollins, 2007.
+- M. Carrithers, "Buddha: A Very Short Introduction," Oxford, UK, Oxford University Press, 2001.
+- T. N. Hanh, "Old Path White Clouds: Walking in the Footsteps of the Buddha," Berkeley, CA, Parallax Press, 2007.
+
+Confucius:
+- M. Schuman, "Confucius: And the World He Created," New York, NY, Basic Books, 2015.
+- Confucius, "The Analects of Confucius," New York, NY, W.W. Norton & Company, 1997.
+- Confucius, "The Book of Rites," New York, NY, Penguin Classics, 2000.
+
+Gilgamesh:
+- S. Mitchell, "Gilgamesh: A New English Version," New York, NY, Free Press, 2004.
+- Anonymous, "The Epic of Gilgamesh," Harmondsworth, UK, Penguin Classics, 2003.
+
+
+
+Jesus:
+- R. Aslan, Zealot: The Life and Times of Jesus of Nazareth. New York: Random House, 2013.
+- B. D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why. New York: HarperOne, 2007.
+- B. D. Ehrman, Jesus Before the Gospels: How the Earliest Christians Remembered, Changed, and Invented Their Stories of the Savior. New York: HarperOne, 2016.
+- E. Doherty, The Jesus Puzzle: Did Christianity Begin with a Mythical Christ? Ottawa: Canadian Humanist Publications, 1999.
+- A. S., The Christ Conspiracy: The Greatest Story Ever Sold. Kempton, IL: Adventures Unlimited Press, 1999.
+- K. Humphreys, Jesus Never Existed: An Introduction to the Ultimate Heresy. Kempton, IL: Adventures Unlimited Press, 2005.
+- D. Fitzgerald, Nailed: Ten Christian Myths That Show Jesus Never Existed at All. Berkeley: CreateSpace Independent Publishing Platform, 2010.
+- R. Carrier, The Historicity of Jesus: Why We Might Have Reason for Doubt. Sheffield, UK: Sheffield Academic Press, 2014.
+- B. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them). New York: HarperOne, 2009.
+- B. Ehrman, Did Jesus Exist? The Historical Argument for Jesus of Nazareth. New York: HarperOne, 2012.
+- I. Finkelstein and N. A. Silberman, The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts. New York: Touchstone, 2002.
+- M. S. Smith, The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts. Oxford: Oxford University Press, 2003.
+- J. M. Allegro, The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East. Rochester, VT: Gnostic Media Research & Publishing, 2009.
+- R. Dawkins, The God Delusion. Boston: Houghton Mifflin, 2006.
+- D. Dennett, Breaking the Spell: Religion as a Natural Phenomenon. New York: Penguin, 2006.
+- S. Harris, The End of Faith: Religion, Terror, and the Future of Reason. New York: W. W. Norton, 2004.
+- C. Hitchens, God Is Not Great: How Religion Poisons Everything. New York: Twelve, 2009.
+- A. Rosenberg, The Atheist's Guide to Reality: Enjoying Life without Illusions. New York: W. W. Norton, 2012.
+- R. Wright, The Evolution of God. New York: Little, Brown and Company, 2009.
+- J. G. Frazer, The Golden Bough: A Study in Magic and Religion. New York: St. Martin's Press, 1998.
+- K. Graves, The World's Sixteen Crucified Saviors. New York: Kessinger Publishing, 2004.
+- J. McCabe, The Myth of the Resurrection and Other Essays. New York: Prometheus Books, 1993.
+
+Job:
+- M. Larrimore, The Book of Job: A Biography. Princeton University Press, 2013.
+- Anonymous, The Book of Job.
+
+Jonah:
+- P. Guillaume, Jonah: A Biography. Eerdmans, 2017.
+- Anonymous, The Book of Jonah.
+
+King Arthur:
+- N. J. Higham, King Arthur: The Making of the Legend. Yale University Press, 2018.
+- T. Malory, Le Morte d'Arthur. Penguin Classics, 2003.
+- T. H. White, The Once and Future King. Ace Books, 1987.
+
+King David:
+- J. Kirsch, King David: The Real Life of the Man Who Ruled Israel. Ballantine Books, 2000.
+- M. O. Wise, The First Messiah: Investigating the Savior Before Jesus. HarperOne, 1999.
+
+
+Krishna:
+- E. F. Bryant, "Krishna: A Sourcebook," New York: Oxford University Press, 2007.
+- Anonymous, "Krishna: The Beautiful Legend of God," Penguin Books, 2004.
+- Anonymous, "The Bhagavad Gita," New York: Penguin Classics, 2008.
+
+Lao Tzu:
+- Lao Tzu, "Tao Te Ching," Translated by J. Legge, New York: Dover Publications, 2003.
+- B. Hoff, "The Tao of Pooh," New York: Penguin Books, 1982.
+- R. Smullyan, "The Tao Is Silent," New York: Harper Perennial, 1977.
+
+Moses:
+- J. Kirsch, "Moses: A Life," New York: Ballantine Books, 1999.
+- Anonymous, "The Book of Exodus," New York: Penguin Classics, 2004.
+
+Muhammad:
+- J. Cole, "Muhammad: Prophet of Peace Amid the Clash of Empires," New York: Nation Books, 2018.
+- R. Aslan, "No God but God: The Origins, Evolution, and Future of Islam," New York: Random House, 2011.
+- J. A. C. Brown, "Muhammad: A Very Short Introduction," Oxford: Oxford University Press, 2011.
+
+Noah:
+- R. Hendel, "The Book of Genesis: A Biography," Princeton: Princeton University Press, 2012.
+- M. Vandestra, "The Story of Noah and the Ark According to Islamic Tradition," Independently published, 2019.
+
+Robin Hood:
+- J. Ritson, "Robin Hood: A Collection of All the Ancient Poems, Songs, and Ballads," London: Reeves and Turner, 1884.
+- Anonymous, "The Gest of Robin Hood," Edited by R. B. Dobson and J. Taylor, Kalamazoo, Michigan: Medieval Institute Publications, 2003.
+
+Samson:
+- T. J. Schneider, "The Book of Judges: A Biography," Princeton: Princeton University Press, 2017.
+- S. Hoffman, "Samson: A Savior Will Rise," B&H Publishing Group, 2012.
+
+Shakespeare:
+- P. Ackroyd, "Shakespeare: A Biography," London: Chatto & Windus, 2005.
+- W. Shakespeare, "Hamlet," Edited by A. R. Braunmuller, New York: Cambridge University Press, 2003.
+- W. Shakespeare, "Romeo and Juliet," Edited by J. Levenson, New York: Penguin Books, 2000.
+
+Virgin Mary:
+- S. J. Boss, "Mary: A History of Doctrine and Devotion," London: Continuum, 2004.
+- S. J. Shoemaker, "The Life of the Virgin: Maximus the Confessor," New Haven: Yale University Press, 2012.
+
+Zoroaster:
+- J. Rose, "Zoroastrianism: A Guide for the Perplexed," London: Bloomsbury Academic, 2011.

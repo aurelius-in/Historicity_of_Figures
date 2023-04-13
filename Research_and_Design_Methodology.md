@@ -1,0 +1,6 @@
+### Research Design and Methodology
+The research study was designed to provide an objective analysis of the historicity of religious figures using machine learning techniques. The study involved collecting non-religious historical texts, images, and other relevant data related to each religious figure from a variety of sources.
+
+The collected data was then analyzed using advanced machine learning techniques such as natural language processing (NLP), sentiment analysis, and deep learning models such as Transformers and GPT-3.5. NLP was used to analyze and categorize the bias levels of historical texts about each figure, based on the language used and context. Sentiment analysis was used to identify the emotions and attitudes expressed in historical texts related to each figure. A more advanced deep learning model such as a Transformer or a GPT-3.5 based model was used to analyze the correlation between historical events and the claims made about each religious figure.
+
+The study used a ranking system to determine the historicity score of each figure, represented as a percentage indicating the likelihood of their actual existence in history. Figures with a historicity score of less than 50% were considered highly unlikely to have ever existed and likely to have been invented through oral tradition and mythological storytelling.

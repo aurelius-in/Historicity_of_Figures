@@ -21,6 +21,11 @@ The use of advanced machine learning techniques such as NLP, Sentiment Analysis,
 
 The study of the historicity of religious figures has far-reaching implications for our understanding of history, religion, and culture. By better understanding the validity of these figures, we can gain a deeper appreciation for ancient civilizations' beliefs and values and their lasting impact on our world today. The use of advanced machine learning techniques in this study demonstrates the effectiveness of these techniques in analyzing historical data and provides a valuable contribution to the field of machine learning.
 
+### Data Collection
+The data collection process involved gathering non-religious historical texts, images, and other relevant data related to each religious figure from a variety of sources. These sources included historical texts, archaeological findings, and other non-religious materials. The data collection process was comprehensive, with data from multiple sources being analyzed for each figure to ensure the accuracy and reliability of the results.
+
+The data collected for each figure included information about their life, teachings, and other relevant events. The data was then analyzed using advanced machine learning techniques to determine the likelihood of their existence in history.
+
 ### Conclusion:
 
 The "Historicity Scores" presented in this study offer new insights into the historical accuracy of various figures from different cultural traditions. Based on our analysis, figures with scores greater than 50% are likely to be based on actual historical figures, while those below 50% are more likely to be entirely mythological. It is important to note that even for those figures with higher scores, much of what we know about them may have been changed through storytelling over time.

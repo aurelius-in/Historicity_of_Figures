@@ -1,3 +1,5 @@
+
+
 Conclusion:
 
 The "Historicity Scores" presented in this study offer new insights into the historical accuracy of various figures from different cultural traditions. Based on our analysis, figures with scores greater than 50% are likely to be based on actual historical figures, while those below 50% are more likely to be entirely mythological. It is important to note that even for those figures with higher scores, much of what we know about them may have been changed through storytelling over time.

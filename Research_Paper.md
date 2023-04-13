@@ -21,8 +21,15 @@ The use of advanced machine learning techniques such as NLP, Sentiment Analysis,
 
 The study of the historicity of religious figures has far-reaching implications for our understanding of history, religion, and culture. By better understanding the validity of these figures, we can gain a deeper appreciation for ancient civilizations' beliefs and values and their lasting impact on our world today. The use of advanced machine learning techniques in this study demonstrates the effectiveness of these techniques in analyzing historical data and provides a valuable contribution to the field of machine learning.
 
+### Research Design and Methodology
+The research study was designed to provide an objective analysis of the historicity of religious figures using machine learning techniques. The study involved collecting non-religious historical texts, images, and other relevant data related to each religious figure from a variety of sources.
+
+The collected data was then analyzed using advanced machine learning techniques such as natural language processing (NLP), sentiment analysis, and deep learning models such as Transformers and GPT-3.5. NLP was used to analyze and categorize the bias levels of historical texts about each figure, based on the language used and context. Sentiment analysis was used to identify the emotions and attitudes expressed in historical texts related to each figure. A more advanced deep learning model such as a Transformer or a GPT-3.5 based model was used to analyze the correlation between historical events and the claims made about each religious figure.
+
+The study used a ranking system to determine the historicity score of each figure, represented as a percentage indicating the likelihood of their actual existence in history. Figures with a historicity score of less than 50% were considered highly unlikely to have ever existed and likely to have been invented through oral tradition and mythological storytelling.
+
 ### Data Collection
-The data collection process involved gathering non-religious historical texts, images, and other relevant data related to each religious figure from a variety of sources. These sources included historical texts, archaeological findings, and other non-religious materials. The data collection process was comprehensive, with data from multiple sources being analyzed for each figure to ensure the accuracy and reliability of the results.
+The data collection process involved gathering non-religious historical texts, and other relevant data related to each religious figure from a variety of sources. These sources included historical texts, archaeological findings, and other religious and non-religious materials. The data collection process was comprehensive, with data from many sources being analyzed for each figure to ensure the accuracy and reliability of the results.
 
 The data collected for each figure included information about their life, teachings, and other relevant events. The data was then analyzed using advanced machine learning techniques to determine the likelihood of their existence in history.
 

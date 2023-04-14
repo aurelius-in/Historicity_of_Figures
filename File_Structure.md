@@ -17,7 +17,7 @@ requirements.txt: This file contains a list of all the Python packages required 
 LICENSE: This file contains the license under which the code is released.
 
 ### File Structure 
-
+```
 research_project/
 ├── data/
 │   ├── raw/
@@ -95,3 +95,4 @@ research_project/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
+```

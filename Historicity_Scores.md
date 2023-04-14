@@ -10,7 +10,7 @@ In general, the distinction between myth-based and person-based characters is no
 
 In conclusion, the depiction of these characters as either person-based or myth-based is often a matter of degree rather than a strict binary. Each character's historicity is based on the available evidence, but the stories and myths that surround them often reflect the cultural values and beliefs of the people who told them.
 
-| Figures         | Historicity (%)   | Person-based        | Myth-based          |
+**| Figures         | Historicity (%)   | Person-based        | Myth-based       |**
 |-----------------|-------------------|---------------------|---------------------|
 | Abraham         | 55                | X                   |                     |
 | Adam and Eve    | 1                 |                     | X                   |
@@ -76,13 +76,13 @@ Using these techniques allowed us to objectively evaluate the historical signifi
 
 It is important to note that the values in the table are not absolute measures of the historicity or accuracy of each figure, but rather reflect the results of the machine learning and natural language processing techniques used to analyze textual sources. The following explanations for each value are based on potential factors that could have influenced the calculations.
 
-Frequency (f): This value represents the number of times a historical figure is mentioned in textual sources. A higher frequency may indicate that the figure was well-known and played an important role in the events of their time. For example, Abraham is mentioned frequently in the Hebrew Bible and the Quran, as he is considered the patriarch of the Israelite and Ishmaelite peoples.
+**Frequency (f):** This value represents the number of times a historical figure is mentioned in textual sources. A higher frequency may indicate that the figure was well-known and played an important role in the events of their time. For example, Abraham is mentioned frequently in the Hebrew Bible and the Quran, as he is considered the patriarch of the Israelite and Ishmaelite peoples.
 
-Reliability (r): This value measures the reliability of the textual sources that mention a historical figure. A higher reliability score may indicate that the sources are considered trustworthy and accurate by historians and scholars. For example, Shakespeare has a high reliability score, as his plays and sonnets are considered some of the greatest works of literature in the English language.
+**Reliability (r):** This value measures the reliability of the textual sources that mention a historical figure. A higher reliability score may indicate that the sources are considered trustworthy and accurate by historians and scholars. For example, Shakespeare has a high reliability score, as his plays and sonnets are considered some of the greatest works of literature in the English language.
 
-Context (c): This value measures the contextual relevance of the textual sources that mention a historical figure. A higher context score may indicate that the figure played a significant role in the events and culture of their time. For example, Lao Tzu has a high context score, as he is the founder of Taoism, a major philosophical and religious tradition in China.
+**Context (c):** This value measures the contextual relevance of the textual sources that mention a historical figure. A higher context score may indicate that the figure played a significant role in the events and culture of their time. For example, Lao Tzu has a high context score, as he is the founder of Taoism, a major philosophical and religious tradition in China.
 
-Similarity (s):  The similarity score in the table refers to the degree to which a historical figure is similar to other figures in mythology and religion. It is based on the idea that many religious figures share common characteristics and themes across different mythologies, suggesting that there may be a connection or evolutionary relationship between them.
+**Similarity (s):**  The similarity score in the table refers to the degree to which a historical figure is similar to other figures in mythology and religion. It is based on the idea that many religious figures share common characteristics and themes across different mythologies, suggesting that there may be a connection or evolutionary relationship between them.
 
 For example, the figure of Jesus in Christianity shares several similarities with other mythological figures, such as Osiris in Egyptian mythology, Mithras in Roman mythology, and Krishna in Hindu mythology. These similarities include being born of a virgin, performing miracles, being betrayed and crucified, and rising from the dead.
 

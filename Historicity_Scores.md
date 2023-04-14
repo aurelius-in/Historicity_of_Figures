@@ -1,23 +1,22 @@
-### Likely based on a person who actually lived (Historicity Scores greater than 40%):
-- Abraham - 55%
-- Buddha - 56%
-- Confucius - 59%
-- King Arthur - 48%
-- King David - 43%
-- Lao Tzu - 73%
-- Moses - 49%
-- Muhammad - 51%
-- Shakespeare - 85%
-
-### More likely to be entirely mythological (Historicity Scores below 40%):
-- Adam and Eve - 1%
-- Gilgamesh - 39%
-- Jesus - 18%
-- Job - 28%
-- Jonah - 2%
-- Krishna - 20%
-- Noah - 3%
-- Robin Hood - 39%
-- Samson - 29%
-- Virgin Mary - 12%
-- Zoroaster - 20%
+| Figures         | Historicity (%)   | Person-based        | Myth-based          |
+|-----------------|-------------------|---------------------|---------------------|
+| Abraham         | 55                | X                   |                     |
+| Adam and Eve    | 1                 |                     | X                   |
+| Buddha          | 56                | X                   |                     |
+| Confucius       | 59                | X                   |                     |
+| Gilgamesh       | 39                |                     | X                   |
+| Jesus           | 18                |                     | X                   |
+| Job             | 28                |                     | X                   |
+| Jonah           | 2                 |                     | X                   |
+| King Arthur     | 48                | X                   |                     |
+| King David      | 43                | X                   |                     |
+| Krishna         | 20                |                     | X                   |
+| Lao Tzu         | 73                | X                   |                     |
+| Moses           | 49                | X                   |                     |
+| Muhammad        | 51                | X                   |                     |
+| Noah            | 3                 |                     | X                   |
+| Robin Hood      | 39                |                     | X                   |
+| Samson          | 29                |                     | X                   |
+| Shakespeare     | 85                | X                   |                     |
+| Virgin Mary     | 12                |                     | X                   |
+| Zoroaster       | 20                |                     | X                   |

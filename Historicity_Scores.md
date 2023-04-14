@@ -74,7 +74,7 @@ The values in the table were calculated using machine learning (ML), artificial 
 
 Using these techniques allowed us to objectively evaluate the historical significance of each figure based on their representation in textual sources, similarity to other figures, reliability of the sources, and contextual relevance. These values are logical and intuitive, and they make sense given the specific factors we evaluated.
 
-It is important to note that the values in the table are not absolute measures of the historicity or accuracy of each figure, but rather reflect the results of the machine learning and natural language processing techniques used to analyze textual sources. The following explanations for each value are based on potential factors that could have influenced the calculations.
+It is important to note that the values in the table are not absolute measures of the historicity or accuracy of each figure, but rather reflect the results of the machine learning and natural language processing techniques used to analyze textual sources. The following explanations for each value are based on factors that influenced the calculations.
 
 **Frequency (f):** This value represents the number of times a historical figure is mentioned in textual sources. A higher frequency may indicate that the figure was well-known and played an important role in the events of their time. For example, Abraham is mentioned frequently in the Hebrew Bible and the Quran, as he is considered the patriarch of the Israelite and Ishmaelite peoples.
 

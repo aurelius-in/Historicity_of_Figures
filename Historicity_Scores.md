@@ -17,20 +17,20 @@ In conclusion, the depiction of these characters as either person-based or myth-
 |   Figures       | Historicity (%)   | Person-based        |    Myth-based       |
 |-----------------|-------------------|---------------------|---------------------|
 | Abraham         | 55                | X                   |                     |
-| Adam and Eve    | 1                 |                     | X                   |
+| Adam and Eve    | 2                 |                     | X                   |
 | Buddha          | 56                | X                   |                     |
 | Confucius       | 59                | X                   |                     |
 | Gilgamesh       | 39                |                     | X                   |
 | Jesus           | 18                |                     | X                   |
 | Job             | 28                |                     | X                   |
-| Jonah           | 2                 |                     | X                   |
+| Jonah           | 5                 |                     | X                   |
 | King Arthur     | 48                | X                   |                     |
 | King David      | 43                | X                   |                     |
 | Krishna         | 20                |                     | X                   |
 | Lao Tzu         | 73                | X                   |                     |
 | Moses           | 49                | X                   |                     |
 | Muhammad        | 51                | X                   |                     |
-| Noah            | 3                 |                     | X                   |
+| Noah            | 5                 |                     | X                   |
 | Robin Hood      | 39                |                     | X                   |
 | Samson          | 29                |                     | X                   |
 | Shakespeare     | 85                | X                   |                     |

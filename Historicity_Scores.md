@@ -1,3 +1,7 @@
+## Results:
+
+The historicity scores of various historical figures were derived using ML, AI, and NLP techniques, taking into account factors such as the reliability of historical sources and the cultural and political context in which they were written. The scores reflect the available evidence and the degree of certainty that a particular character was based on an actual historical figure. Jesus and Mary received low historicity scores due to the limited and disputed evidence for their existence, while characters like Adam and Eve or Robin Hood are more likely to be mythological in nature due to the lack of reliable historical evidence.
+
 ### Historicity Scores:
 
 Many of the characters listed in the table have been the subject of various stories and myths throughout history, often containing elements that are fantastical or exaggerated. However, some of these characters are believed to be based on historical figures who actually lived, even though their stories and legends may not be entirely accurate.

@@ -10,7 +10,7 @@ In general, the distinction between myth-based and person-based characters is no
 
 In conclusion, the depiction of these characters as either person-based or myth-based is often a matter of degree rather than a strict binary. Each character's historicity is based on the available evidence, but the stories and myths that surround them often reflect the cultural values and beliefs of the people who told them.
 
-**| Figures         | Historicity (%)   | Person-based        | Myth-based       |**
+| **Figures       | Historicity (%)   | Person-based        | Myth-based**        |
 |-----------------|-------------------|---------------------|---------------------|
 | Abraham         | 55                | X                   |                     |
 | Adam and Eve    | 1                 |                     | X                   |
